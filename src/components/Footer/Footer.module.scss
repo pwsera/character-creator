@@ -6,3 +6,11 @@
   text-align: center;
 }
 
+.link {
+  color: hsl(180, 70%, 67%);
+
+  &:hover {
+    color: hsla(180, 70%, 67%, 0.6);
+  }
+}
+

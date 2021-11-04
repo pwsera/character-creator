@@ -1,6 +1,6 @@
 import React from 'react';
 
-import styles from './Footer.module.css';
+import styles from './Footer.module.scss';
 
 const Footer = () => {
   return (
@@ -10,6 +10,7 @@ const Footer = () => {
         href="https://www.openpeeps.com/"
         target="_blank"
         rel="noopener noreferrer"
+        className={styles.link}
       >
         Open Peeps
       </a>
