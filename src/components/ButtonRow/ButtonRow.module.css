@@ -1,2 +1,11 @@
 .buttonRow {
+  white-space: nowrap; /* Avoid wrapping */
+  overflow-x: auto;
+
+  margin-left: -22px; /* Remove white space from containing padding */
+  margin-right: -22px; /* Remove white space from containing padding */
+  margin-bottom: -22px; /* Have my scroll on the edge */
+
+  padding: 22px; /* To have a gap without break scroll */
+  /* Whe use the value of 22px (not 24px) to have a minimum white space in the edges. Try to chage to a lower value */
 }

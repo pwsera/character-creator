@@ -1,6 +1,6 @@
 import React from 'react';
 
-import styles from './ToggleButton.module.css';
+import styles from './ToggleButton.module.scss';
 
 const ToggleButton = ({
   label,
