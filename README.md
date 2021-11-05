@@ -1,3 +1,9 @@
+# About
+
+This solution was made by [@pwsera](https://github.com/pwsera).
+
+Access the initial files at the _main_ branch [here](https://github.com/pwsera/character-creator/tree/main).
+
 # Character Creation Workshop
 
 In this workshop, you'll build a Sims-style character creation screen.
