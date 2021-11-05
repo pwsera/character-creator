@@ -1,8 +1,8 @@
 # About
 
-This solution was made by [@pwsera](https://github.com/pwsera).
+This solution was made by [@pwsera](https://github.com/pwsera) during the [CSS for JS Developers course](https://css-for-js.dev/).
 
-Access the initial files at the _main_ branch [here](https://github.com/pwsera/character-creator/tree/main).
+Access the initial files at the _main_ branch [here](https://github.com/pwsera/character-creator/tree/main) and try your own solution!
 
 # Character Creation Workshop
 
